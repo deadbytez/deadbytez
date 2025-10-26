@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome 👋
+Mainly a Windows user, in some cases I use Linux.
+
+Not a programmer.
+
+---
+<img src="https://media1.tenor.com/m/bIdOZEzQKAoAAAAC/comrade-bob-nest-nest.gif" height="284px"> <img src="https://media1.tenor.com/m/1qpDSYkfsW0AAAAd/konata-konata-izumi.gif">
+
+
 
 <!--
 **deadbytez/deadbytez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
